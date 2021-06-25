@@ -1,0 +1,48 @@
+<h1>Rules</h1>
+<table class='table' align='center' rules='rows'>
+<tr>
+	<td class='imgTd'>	
+	<img src='img/nut1.png'>	
+	</td>
+	<td>
+		<span>You must eat these nuts. More nuts - more scores!</span>
+	</td>
+</tr>
+<tr>
+	<td class='imgTd'>
+	<img src='img/nut2.png' >
+	</td>
+	<td>
+		<span>If you eat this nut - your speed will decrease and and will be like this until you eat 2 nuts</span>
+	</td>
+</tr>
+<tr>
+	<td class='imgTd'>
+	<img src='img/nut3.png'>
+	</td>
+	<td>
+		<span>If you eat this nut - your speed will increase and and will be like this until you eat 2 nuts</span>
+	</td>
+</tr>
+<tr>
+	<td class='imgTd'>
+	<img src='img/nut4.png'>
+	</td>
+	<td>
+		<span>If you eat this nut, the game is over for you!</span>
+	</td>
+</tr>
+<tr>
+	<td class='imgTd'>
+	<img src='img/worm1.png'>
+	</td>
+	<td>
+		<span>A worm is a delicious treat for a bird</span>
+	</td>
+</tr>
+
+
+</table>
+
+	<p>You don't have much time!</br> Hurry up!</p>
+	<span class='up'>&#8679;</span>
